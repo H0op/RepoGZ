@@ -19,7 +19,7 @@ namespace WindowsFormsApplicationGZ
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //ASDASDASD
+            //MLEKO JEST DOBRE
         }
     }
 }
